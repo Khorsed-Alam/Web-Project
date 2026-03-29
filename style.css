@@ -1,0 +1,63 @@
+.Header{
+    height: 10vh;
+    background-color: aquamarine;
+    display: flex;
+    gap: 40px;
+
+    
+
+}
+.main{
+
+    height: 90vh;
+    background-color: lightgray;
+}
+.tree-text{
+    height: 20%;
+    background-color: lightgreen;
+    margin: 10px 50px 10px 50px;
+
+    box-shadow:0px 3px 10px  ;
+
+}
+.Topic-List{
+    margin: 10px 50px 10px 50px; 
+    display: flex;
+    width: 100%;
+
+   flex-wrap: wrap;
+   gap: 10px;
+    
+   
+    
+}
+.Topic-Card{
+    width: 20%;
+    padding: 5%;
+    background-color: white;
+    height: 20%;
+    border-radius: 20px;
+
+}
+.Text{
+
+}
+
+.red{
+    color: red;
+}
+.icon-oriantation{
+    display: flex;
+    gap: 20px ;
+    
+}
+
+.footer-icon{
+    
+    display: flex;
+
+}
+.icon-group{
+    padding-left: 200px;
+    justify-content: right;
+}
